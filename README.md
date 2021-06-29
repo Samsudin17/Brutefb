@@ -12,6 +12,9 @@ $ rm -rf Brute
 
 $ git clone https://github.com/KangBadru23/Brute
 
+$ pip install ipaddr
+
+$ pip2 install ipaddr
 
 run script
 
