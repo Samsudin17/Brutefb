@@ -8,9 +8,9 @@ $ pkg install python git
 
 $ pip install requests bs4 futures
 
-$ rm -rf Brute
+$ rm -rf Brutefb
 
-$ git clone https://github.com/KangBadru23/Brute
+$ git clone https://github.com/KangBadru23/Brutefb
 
 $ pip install ipaddr
 
@@ -18,6 +18,6 @@ $ pip2 install ipaddr
 
 run script
 
-$ cd $HOME/Brute
+$ cd $HOME/Brutefb
 
 $ python run.py
